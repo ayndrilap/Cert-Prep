@@ -10,6 +10,13 @@ p {
     font-weight:bold;
     background-color:aqua;
 }
-#aura {
+#sidenote {
     background-color: color #198e59;
+}
+a {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+    font-weight: bold;
 }
