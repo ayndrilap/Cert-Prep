@@ -6,16 +6,20 @@
 p {
     color: navy;
 }
+
 .sale {
     font-weight:bold;
     background-color:aqua;
 }
-#sidenote {
+
+#sidenote{
     background-color:#198e59;
 }
+
 a {
     text-decoration: none;
 }
+
 a:hover {
     text-decoration: underline;
     font-weight: bold;
